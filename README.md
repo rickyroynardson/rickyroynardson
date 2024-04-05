@@ -45,10 +45,10 @@ Let's connect on LinkedIn! [<img src="https://img.shields.io/badge/LinkedIn-blue
   <!--START_SECTION:waka-->
 
 ```txt
-Total Time: 1 hr 50 mins
+Total Time: 2 hrs
 
-Go      1 hr 47 mins    ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣤   97.41 %
-Other   2 mins          ⣶⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   02.59 %
+Go      1 hr 58 mins    ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣤   97.63 %
+Other   2 mins          ⣶⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   02.37 %
 ```
 
 <!--END_SECTION:waka-->
