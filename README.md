@@ -2,9 +2,9 @@
 
 ### about me
 
-Hello there 👋, I am a college student majoring in Information Systems, a lifetime learner, and a web developer based in Indonesia. I was interested in the world of computers and technology. I enjoy creating things that live on the internet, whether websites, applications, or anything in between.
+Hello there 👋, I am a college student majoring in Information Systems, a lifetime learner, and a software engineer based in Indonesia. I was interested in the world of computers and technology. I enjoy creating things that live on the internet, whether websites, applications, or anything in between.
 
-I love to learn new things, write some code, create some bugs, and play video games.
+I love to learn new things, write some code, and create some bugs.
 
 ### reach me
 
