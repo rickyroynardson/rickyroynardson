@@ -2,9 +2,7 @@
 
 ### about me
 
-Hello there 👋, I am a college student majoring in Information Systems, a lifetime learner, and a software engineer based in Indonesia. I was interested in the world of computers and technology. I enjoy creating things that live on the internet, whether websites, applications, or anything in between.
-
-I love to learn new things, write some code, and create some bugs.
+Hello there 👋, I am a college student majoring in Information Systems with 2+ years of hands-on experience in developing software products on various platforms, having interests in web development, and being familiar with modern front-end and back-end frameworks such as Next.js (React.js) and Node.js using JavaScript or TypeScript. Always passionate and open-minded to learn about new technologies. Applied software development life cycle, version control, and relevant frameworks to solve user and client needs.
 
 ### reach me
 
